@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MeuAppNativo</string>
+    <string name="title_activity_lista">ListaActivity</string>
+
+    <string-array name="contatos">
+        <item>Contato 1</item>
+        <item>Contato 2</item>
+        <item>Contato 3</item>
+        <item>Contato 4</item>
+        <item>Contato 5</item>
+    </string-array>
+</resources>
